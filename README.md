@@ -37,7 +37,7 @@ cd modern-calculator
 3. Run the application:
 
 ```bash
-python calculator.py
+python calc.py
 ```
 
 ## Project Structure
@@ -45,7 +45,7 @@ python calculator.py
 ```text
 modern-calculator/
 │
-├── calculator.py
+├── calc.py
 ├── README.md
 └── LICENSE
 ```
